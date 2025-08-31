@@ -1,3 +1,3 @@
-module github.com/reugn/go-streams
+module github.com/logi-camp/go-streams
 
 go 1.21

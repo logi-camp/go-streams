@@ -1,10 +1,10 @@
-module github.com/reugn/go-streams/aws
+module github.com/logi-camp/go-streams/aws
 
 go 1.22.0
 
 require (
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.3
-	github.com/reugn/go-streams v0.12.0
+	github.com/logi-camp/go-streams v0.12.0
 )
 
 require (

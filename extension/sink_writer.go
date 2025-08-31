@@ -6,7 +6,7 @@ import (
 	"io"
 	"log/slog"
 
-	"github.com/reugn/go-streams"
+	"github.com/logi-camp/go-streams"
 )
 
 // WriterSink represents an outbound connector that writes data to an io.WriteCloser.

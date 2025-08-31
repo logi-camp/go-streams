@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
+	"github.com/logi-camp/go-streams/flow"
+	rs "github.com/logi-camp/go-streams/redis"
 	"github.com/redis/go-redis/v9"
-	"github.com/reugn/go-streams/flow"
-	rs "github.com/reugn/go-streams/redis"
 )
 
 // XADD stream1 * key1 a key2 b key3 c

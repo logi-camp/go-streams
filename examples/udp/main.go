@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	ext "github.com/reugn/go-streams/extension"
-	"github.com/reugn/go-streams/flow"
+	ext "github.com/logi-camp/go-streams/extension"
+	"github.com/logi-camp/go-streams/flow"
 )
 
 // This example demonstrates stream processing from a UDP source to a UDP

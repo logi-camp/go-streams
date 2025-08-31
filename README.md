@@ -1,7 +1,7 @@
 # go-streams
-[![Build](https://github.com/reugn/go-streams/actions/workflows/build.yml/badge.svg)](https://github.com/reugn/go-streams/actions/workflows/build.yml)
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/reugn/go-streams)](https://pkg.go.dev/github.com/reugn/go-streams)
-[![Go Report Card](https://goreportcard.com/badge/github.com/reugn/go-streams)](https://goreportcard.com/report/github.com/reugn/go-streams)
+[![Build](https://github.com/logi-camp/go-streams/actions/workflows/build.yml/badge.svg)](https://github.com/logi-camp/go-streams/actions/workflows/build.yml)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/logi-camp/go-streams)](https://pkg.go.dev/github.com/logi-camp/go-streams)
+[![Go Report Card](https://goreportcard.com/badge/github.com/logi-camp/go-streams)](https://goreportcard.com/report/github.com/logi-camp/go-streams)
 [![codecov](https://codecov.io/gh/reugn/go-streams/branch/master/graph/badge.svg)](https://codecov.io/gh/reugn/go-streams)
 
 `go-streams` provides a lightweight and efficient stream processing framework for Go. Its concise DSL allows

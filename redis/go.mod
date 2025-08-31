@@ -1,10 +1,10 @@
-module github.com/reugn/go-streams/redis
+module github.com/logi-camp/go-streams/redis
 
 go 1.21.0
 
 require (
 	github.com/redis/go-redis/v9 v9.8.0
-	github.com/reugn/go-streams v0.12.0
+	github.com/logi-camp/go-streams v0.12.0
 )
 
 require (

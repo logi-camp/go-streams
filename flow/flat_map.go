@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/reugn/go-streams"
+	"github.com/logi-camp/go-streams"
 )
 
 // FlatMapFunction represents a FlatMap transformation function.

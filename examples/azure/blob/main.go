@@ -8,10 +8,10 @@ import (
 	"strings"
 
 	"github.com/Azure/azure-sdk-for-go/sdk/storage/azblob"
-	"github.com/reugn/go-streams"
-	"github.com/reugn/go-streams/azure"
-	"github.com/reugn/go-streams/extension"
-	"github.com/reugn/go-streams/flow"
+	"github.com/logi-camp/go-streams"
+	"github.com/logi-camp/go-streams/azure"
+	"github.com/logi-camp/go-streams/extension"
+	"github.com/logi-camp/go-streams/flow"
 )
 
 const (

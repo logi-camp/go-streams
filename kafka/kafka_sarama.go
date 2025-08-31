@@ -6,8 +6,8 @@ import (
 	"log/slog"
 
 	"github.com/IBM/sarama"
-	"github.com/reugn/go-streams"
-	"github.com/reugn/go-streams/flow"
+	"github.com/logi-camp/go-streams"
+	"github.com/logi-camp/go-streams/flow"
 )
 
 // SaramaSource represents an Apache Kafka source connector.

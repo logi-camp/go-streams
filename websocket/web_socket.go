@@ -6,8 +6,8 @@ import (
 	"log/slog"
 
 	ws "github.com/gorilla/websocket"
-	"github.com/reugn/go-streams"
-	"github.com/reugn/go-streams/flow"
+	"github.com/logi-camp/go-streams"
+	"github.com/logi-camp/go-streams/flow"
 )
 
 // Message represents a WebSocket message container.

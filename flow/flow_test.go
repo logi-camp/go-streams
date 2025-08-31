@@ -8,10 +8,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/reugn/go-streams"
-	ext "github.com/reugn/go-streams/extension"
-	"github.com/reugn/go-streams/flow"
-	"github.com/reugn/go-streams/internal/assert"
+	"github.com/logi-camp/go-streams"
+	ext "github.com/logi-camp/go-streams/extension"
+	"github.com/logi-camp/go-streams/flow"
+	"github.com/logi-camp/go-streams/internal/assert"
 )
 
 func ptr[T any](value T) *T {

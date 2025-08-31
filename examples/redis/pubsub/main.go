@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
+	"github.com/logi-camp/go-streams/flow"
+	ext "github.com/logi-camp/go-streams/redis"
 	"github.com/redis/go-redis/v9"
-	"github.com/reugn/go-streams/flow"
-	ext "github.com/reugn/go-streams/redis"
 )
 
 // https://redis.io/topics/pubsub

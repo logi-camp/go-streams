@@ -1,10 +1,10 @@
-module github.com/reugn/go-streams/gcp
+module github.com/logi-camp/go-streams/gcp
 
 go 1.23.0
 
 require (
 	cloud.google.com/go/storage v1.53.0
-	github.com/reugn/go-streams v0.12.0
+	github.com/logi-camp/go-streams v0.12.0
 	google.golang.org/api v0.232.0
 )
 

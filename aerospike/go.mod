@@ -1,10 +1,10 @@
-module github.com/reugn/go-streams/aerospike
+module github.com/logi-camp/go-streams/aerospike
 
 go 1.23.0
 
 require (
 	github.com/aerospike/aerospike-client-go/v8 v8.2.2
-	github.com/reugn/go-streams v0.12.0
+	github.com/logi-camp/go-streams v0.12.0
 )
 
 require (

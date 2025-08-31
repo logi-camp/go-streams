@@ -1,10 +1,10 @@
-module github.com/reugn/go-streams/azure
+module github.com/logi-camp/go-streams/azure
 
 go 1.23.0
 
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.6.1
-	github.com/reugn/go-streams v0.12.0
+	github.com/logi-camp/go-streams v0.12.0
 )
 
 require (

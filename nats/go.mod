@@ -1,11 +1,11 @@
-module github.com/reugn/go-streams/nats
+module github.com/logi-camp/go-streams/nats
 
 go 1.23.0
 
 require (
 	github.com/nats-io/nats.go v1.42.0
 	github.com/nats-io/stan.go v0.10.4
-	github.com/reugn/go-streams v0.12.0
+	github.com/logi-camp/go-streams v0.12.0
 )
 
 require (

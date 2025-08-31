@@ -1,7 +1,7 @@
 package flow
 
 import (
-	"github.com/reugn/go-streams"
+	"github.com/logi-camp/go-streams"
 )
 
 // FoldFunction represents a Fold transformation function.

@@ -6,8 +6,8 @@ import (
 	"log/slog"
 	"os"
 
-	"github.com/reugn/go-streams"
-	"github.com/reugn/go-streams/flow"
+	"github.com/logi-camp/go-streams"
+	"github.com/logi-camp/go-streams/flow"
 )
 
 // FileSource represents an inbound connector that creates a stream of
