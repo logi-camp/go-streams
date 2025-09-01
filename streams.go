@@ -1,4 +1,4 @@
-package main
+package streams
 
 // Inlet represents a type that exposes one open input.
 type Inlet interface {

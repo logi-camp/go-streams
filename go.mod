@@ -6,7 +6,7 @@ replace (
 	github.com/logi-camp/go-streams/aerospike => ./aerospike
 	github.com/logi-camp/go-streams/aws => ./aws
 	github.com/logi-camp/go-streams/azure => ./azure
-	github.com/logi-camp/go-streams/extensionss => ./extensions
+	github.com/logi-camp/go-streams/extensions => ./extensions
 	github.com/logi-camp/go-streams/kafka => ./kafka
 	github.com/logi-camp/go-streams/nats => ./nats
 	github.com/logi-camp/go-streams/pulsar => ./pulsar
