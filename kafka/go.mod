@@ -1,6 +1,6 @@
 module github.com/logi-camp/go-streams/kafka
 
-go 1.21.0
+go 1.24.6
 
 require (
 	github.com/IBM/sarama v1.45.1

@@ -1,6 +1,6 @@
 module github.com/logi-camp/go-streams/examples
 
-go 1.23.0
+go 1.24.6
 
 require (
 	cloud.google.com/go/storage v1.53.0
