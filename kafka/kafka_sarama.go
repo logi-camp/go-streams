@@ -179,6 +179,8 @@ func (ks *SaramaSink) process() {
 		switch message := msg.(type) {
 		case *sarama.ProducerMessage:
 			_, _, err = ks.producer.SendMessage(message)
+		case []*sarama.ProducerMessage:
+			err = ks.producer.SendMessages(message)
 		case *sarama.ConsumerMessage:
 			producerMessage := &sarama.ProducerMessage{
 				Topic: ks.topic,
